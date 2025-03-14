@@ -1,0 +1,37 @@
+Welcome to my lines.
+This is for practicing with lines and text files, regular text and for use of regular expression.
+Empty line.
+
+Nothing.
+Test
+Tessst test Teest
+Tesst
+Test. with a dot.
+Maybe another test line.
+Test in the start and end test.
+
+ALL CAPITAL SENTENCE
+DOES ADDING A DOT MATTER?.
+DOES ADDING A DOT MATTER
+
+Duplicate line
+Duplicate line
+Duplicate line
+
+Duplicate line
+
+Teeeest
+Test
+test
+TEST
+tesT
+
+1 2 3 4 5 6
+1 2 3
+123
+1 5 6 7
+1 0 9 4
+
+1	2	3	4	5	6
+1	2	3
+1 2 3

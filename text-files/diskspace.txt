@@ -1,0 +1,8 @@
+Filesystem                  Size  Used Avail Use% Mounted on
+devtmpfs                    4.0M     0  4.0M   0% /dev
+tmpfs                       1.8G     0  1.8G   0% /dev/shm
+tmpfs                       732M  9.2M  723M   2% /run
+/dev/mapper/almalinux-root   17G  5.4G   12G  32% /
+/dev/sda1                   960M  460M  501M  48% /boot
+tmpfs                       366M  112K  366M   1% /run/user/1000
+/dev/sr0                     52M   52M     0 100% /run/media/azsha/VBox_GAs_7.0.20

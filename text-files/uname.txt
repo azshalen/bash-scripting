@@ -1,0 +1,1 @@
+Linux localhost.localdomain 5.14.0-503.29.1.el9_5.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Mar 7 13:51:12 EST 2025 x86_64 x86_64 x86_64 GNU/Linux
