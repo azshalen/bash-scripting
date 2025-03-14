@@ -12,3 +12,8 @@ echo $wtb
 tar -cvzf $fileName $wtb
 
 echo "Completed"
+
+:<<'CRON'
+Example for the cron entry:
+30	18	*	*	*	/home/azsha/bash-scripting/scripts/backup.sh
+CRON
