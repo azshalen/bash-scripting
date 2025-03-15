@@ -4,11 +4,6 @@
 #	1 - Check all files within /home/azsha/bash-scripting and add the execute permission if the file is a Bash Script.
 #	2 - Accept input as a path or file and check if it has execute permissions, if not, add it.
 
-
-#looking for
-#file backup.sh 
-#backup.sh: Bourne-Again shell script, ASCII text executable
-
 #Iterate over all files within the bash-scripting directory.
 if [[ $# -lt 1 ]]; then
 	for i in $(find ~/bash-scripting/* -type f); do
