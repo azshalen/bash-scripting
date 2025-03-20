@@ -1,0 +1,17 @@
+#!/bin/awk -f
+
+#BEGIN {
+#y=5
+#print y
+#}
+
+#awk -v x=3 -v y=2 'BEGIN {print x y}'
+# OR
+#BEGIN '{a=5; print a}'
+
+# READING INPUT:
+# file_name.txt contains "2 6"
+
+#awk 'BEGIN {print $1 $2}' file_name.txt
+
+
