@@ -6,7 +6,7 @@
 
 #Iterate over all files within the bash-scripting directory.
 if [[ $# -lt 1 ]]; then
-	for i in $(find ~/bash-scripting/* -type f); do
+	for i in $(find ~/Documents/Practice/BashScripting/bash-scripting/* -type f); do
 		check=$(file $i)
 
 		if [[ $check == *"shell"* ]]
